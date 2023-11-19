@@ -1,4 +1,4 @@
-package Day_9;
+package Day_09;
 
 public class While_loop_practice {
     public static void main(String[] args) {

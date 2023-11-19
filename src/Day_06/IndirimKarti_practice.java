@@ -1,4 +1,4 @@
-package Day_6;
+package Day_06;
 
 public class IndirimKarti_practice {
     public static void main(String[] args) {

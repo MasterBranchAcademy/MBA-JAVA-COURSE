@@ -1,4 +1,4 @@
-package Day_7;
+package Day_07;
 
 public class Takipci_sayisi {
     public static void main(String[] args) {

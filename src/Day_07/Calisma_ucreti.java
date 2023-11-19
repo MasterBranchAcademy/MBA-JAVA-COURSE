@@ -1,4 +1,4 @@
-package Day_7;
+package Day_07;
 
 public class Calisma_ucreti {
 

@@ -1,4 +1,4 @@
-package Day_8;
+package Day_08;
 
 public class Pratik {
     public static void main(String[] args) {

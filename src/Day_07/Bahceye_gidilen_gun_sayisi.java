@@ -1,4 +1,4 @@
-package Day_7;
+package Day_07;
 
 public class Bahceye_gidilen_gun_sayisi {
     public static void main(String[] args) {

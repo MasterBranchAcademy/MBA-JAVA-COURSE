@@ -1,4 +1,4 @@
-package Day_6;
+package Day_06;
 
 public class Ternary_Practice {
     public static void main(String[] args) {
